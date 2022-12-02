@@ -16,7 +16,7 @@ This program requires at least Java 8 to compile and run properly.
 
 ## Credits
 
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Guess the Animal project on JetBrains Academy.
 
